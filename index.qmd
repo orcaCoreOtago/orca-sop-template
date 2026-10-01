@@ -1,0 +1,55 @@
+---
+title: "SOP TITLE"
+subtitle: "Standard Operating Procedure"
+---
+
+::: {.callout-note appearance="simple"}
+**Who this is for:** who will use this SOP and what they need to know beforehand.
+:::
+
+# Purpose and scope
+
+What this procedure is for, and what it does not cover.
+
+# Safety
+
+::: {.callout-warning}
+Hazards, required PPE, and when to stop and get help. Delete this section if there are none.
+:::
+
+# Equipment and materials
+
+- Item 1
+- Item 2
+
+# Before you start
+
+- [ ] Check 1
+- [ ] Check 2
+
+# Procedure {#sec-procedure}
+
+## Step 1: first step
+
+1. Do this.
+2. Then this.
+
+![Caption describing what the reader should see.](images/example.png){#fig-example width=70%}
+
+## Step 2: second step
+
+1. ...
+
+# Troubleshooting {#sec-troubleshooting}
+
+| What you see | What it means | What to do |
+|------------------|------------------|------------------|
+| Problem | Cause | Fix |
+
+: Common problems {tbl-colwidths="[32,32,36]"}
+
+# Revision history {.appendix}
+
+| Date | Change | By |
+|------------|--------------------------------|------------|
+| YYYY-MM-DD | First version | Name |
